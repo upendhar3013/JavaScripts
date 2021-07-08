@@ -1,7 +1,7 @@
 package bootCampJavaTutorials;
 import java.util.Scanner;
 
-
+// Checking with different years 10 times in single run
 
 public class LeapYearCheck {
 
